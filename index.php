@@ -16,7 +16,6 @@
 
 </html>
 
-
 <?php
 
 $filename = "commands.json";
